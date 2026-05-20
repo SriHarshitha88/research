@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EBOD Literature Review</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__copy">
+        <p class="eyebrow">Research alone</p>
+        <h1>EBOD Literature Review</h1>
+        <p class="hero__text">
+          A local, manuscript-first dashboard for reviewing how environmental
+          burden of disease methods can be adapted to an India-focused
+          climate-health study.
+        </p>
+      </div>
+      <div class="hero__panel" id="hero-summary"></div>
+    </header>
+
+    <nav class="section-nav">
+      <a href="#overview">Overview</a>
+      <a href="#top10">Top 10</a>
+      <a href="#matrix">Method Matrix</a>
+      <a href="#pipeline">Pipeline</a>
+      <a href="#inputs">Inputs</a>
+      <a href="#inventory">Inventory</a>
+      <a href="#insights">Insights</a>
+    </nav>
+
+    <main class="layout">
+      <section id="overview" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Step 1 dashboard</p>
+            <h2>Research overview</h2>
+          </div>
+          <p class="section-note">
+            Review of prior EBOD methods, climate-health burden workflows, and
+            reusable pipeline components for India.
+          </p>
+        </div>
+        <div id="kpis" class="kpi-grid"></div>
+        <div class="chart-grid">
+          <div class="chart-card">
+            <h3>Papers by category</h3>
+            <div id="category-chart" class="bar-chart"></div>
+          </div>
+          <div class="chart-card">
+            <h3>Method feature coverage</h3>
+            <div id="feature-chart" class="bar-chart"></div>
+          </div>
+          <div class="chart-card">
+            <h3>India relevance mix</h3>
+            <div id="relevance-chart" class="bar-chart"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="top10" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Highlight set</p>
+            <h2>Top 10 methodology papers</h2>
+          </div>
+          <p class="section-note">
+            These papers carry the strongest methodological reuse value for the
+            India climate-health EBOD manuscript.
+          </p>
+        </div>
+        <div id="top10-list" class="top10-list"></div>
+      </section>
+
+      <section id="matrix" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Comparative view</p>
+            <h2>Methodology matrix</h2>
+          </div>
+          <p class="section-note">
+            Compare the top 10 papers across the exact methodological elements
+            needed for Step 1.
+          </p>
+        </div>
+        <div class="table-wrap">
+          <table id="matrix-table"></table>
+        </div>
+      </section>
+
+      <section id="pipeline" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Common workflow</p>
+            <h2>EBOD pipeline</h2>
+          </div>
+          <p class="section-note">
+            Common workflow defined in most papers.
+          </p>
+        </div>
+        <div id="pipeline-flow" class="pipeline-flow"></div>
+      </section>
+
+      <section id="inputs" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Data requirements</p>
+            <h2>Common inputs and methods</h2>
+          </div>
+          <p class="section-note">
+            Repeated data needs and framework components across papers.
+          </p>
+        </div>
+        <div class="chart-grid">
+          <div class="chart-card">
+            <h3>Common inputs</h3>
+            <div id="inputs-chart" class="bar-chart"></div>
+          </div>
+          <div class="chart-card">
+            <h3>Framework families</h3>
+            <div id="framework-chart" class="bar-chart"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="inventory" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Full evidence base</p>
+            <h2>Paper inventory</h2>
+          </div>
+          <p class="section-note">
+            Search and filter the screened paper inventory across all six
+            phases.
+          </p>
+        </div>
+        <div class="toolbar">
+          <input id="search-input" type="search" placeholder="Search citation, category, exposure, outcome..." />
+          <select id="phase-filter"></select>
+          <select id="relevance-filter"></select>
+        </div>
+        <div class="table-wrap">
+          <table id="inventory-table"></table>
+        </div>
+      </section>
+
+      <section id="insights" class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Synthesis</p>
+            <h2>Insights from literature review</h2>
+          </div>
+          <p class="section-note">
+            High-signal conclusions ready to show today and carry forward into
+            manuscript writing.
+          </p>
+        </div>
+        <div id="insight-cards" class="insight-grid"></div>
+      </section>
+    </main>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
