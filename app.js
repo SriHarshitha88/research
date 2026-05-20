@@ -108,14 +108,12 @@
   }
 
   function renderHero() {
-    const shortlisted = inventory.filter((paper) => /yes/i.test(paper.shortlist)).length;
     const hero = document.getElementById("hero-summary");
     hero.innerHTML = `
       <p class="eyebrow">Step 1 snapshot</p>
       <div class="kpi-grid">
         <div class="kpi"><div class="kpi__value">${inventory.length}</div><div class="kpi__label">Total papers screened</div></div>
         <div class="kpi"><div class="kpi__value">${top10.length}</div><div class="kpi__label">Papers highly relevant to our study</div></div>
-        <div class="kpi"><div class="kpi__value">${shortlisted}</div><div class="kpi__label">Inventory papers tagged for shortlist</div></div>
       </div>
       <p class="small-note">
         Step 1 establishes the methodological backbone for an India-focused climate-health EBOD study: exposure mapping, response functions, attributable fractions, DALY conversion, and uncertainty handling.
