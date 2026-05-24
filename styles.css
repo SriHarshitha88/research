@@ -37,7 +37,8 @@ a {
 
 .hero,
 .layout,
-.section-nav {
+.section-nav,
+.focus-nav {
   width: min(1280px, calc(100vw - 40px));
   margin: 0 auto;
 }
@@ -138,6 +139,34 @@ button {
   background: rgba(255, 253, 249, 0.8);
 }
 
+.focus-nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: -6px auto 14px;
+}
+
+.focus-btn {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 253, 249, 0.88);
+  color: var(--ink);
+  padding: 10px 14px;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 0.86rem;
+  cursor: pointer;
+}
+
+.focus-btn.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.panel.is-hidden {
+  display: none;
+}
+
 .layout {
   display: grid;
   gap: 22px;
@@ -159,7 +188,9 @@ button {
 .kpi-grid,
 .chart-grid,
 .reuse-grid,
-.insight-grid {
+.insight-grid,
+.roadmap-grid,
+.iteration-grid {
   display: grid;
   gap: 16px;
 }
@@ -199,6 +230,41 @@ button {
   display: grid;
   gap: 12px;
   margin-top: 14px;
+}
+
+.pathway-map {
+  display: grid;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.pathway-row {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) auto minmax(220px, 1fr) auto minmax(220px, 1fr);
+  align-items: stretch;
+  gap: 10px;
+}
+
+.pathway-node {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: linear-gradient(180deg, #fffdf9, #f1ebdf);
+  padding: 12px;
+  line-height: 1.45;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.pathway-node--outcome {
+  background: linear-gradient(180deg, #eaf5f1, #dfeee8);
+  border-color: #c7e1d9;
+}
+
+.pathway-arrow {
+  display: grid;
+  place-items: center;
+  color: var(--gold);
+  font-size: 1.25rem;
+  font-weight: 700;
 }
 
 .bar-row {
@@ -440,6 +506,48 @@ th {
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
+.roadmap-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-bottom: 14px;
+}
+
+.iteration-grid {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.roadmap-card,
+.iteration-card {
+  border: 1px solid var(--line);
+  background: linear-gradient(180deg, #fffdfa, #f6efe4);
+  border-radius: 18px;
+  padding: 16px;
+}
+
+.status-chip {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.status-chip.done {
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+}
+
+.status-chip.in-progress {
+  background: #f7e9c7;
+  color: #8a5d00;
+}
+
+.status-chip.queued {
+  background: #ece8e1;
+  color: #5d6470;
+}
+
 @media (max-width: 920px) {
   .hero {
     grid-template-columns: 1fr;
@@ -457,5 +565,14 @@ th {
   .tag-row {
     grid-column: span 2;
     justify-content: start;
+  }
+
+  .pathway-row {
+    grid-template-columns: 1fr;
+  }
+
+  .pathway-arrow {
+    transform: rotate(90deg);
+    min-height: 18px;
   }
 }

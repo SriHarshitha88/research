@@ -21,17 +21,37 @@
     </header>
 
     <nav class="section-nav">
+      <a href="#cockpit">Cockpit</a>
       <a href="#overview">Overview</a>
       <a href="#top10">Top 10</a>
       <a href="#matrix">Method Matrix</a>
+      <a href="#step2">Step 2 Outcomes</a>
       <a href="#pipeline">Pipeline</a>
       <a href="#inputs">Inputs</a>
       <a href="#inventory">Inventory</a>
       <a href="#insights">Insights</a>
     </nav>
+    <div class="focus-nav">
+      <button type="button" class="focus-btn active" data-focus="all">All Sections</button>
+      <button type="button" class="focus-btn" data-focus="step1">Method Review</button>
+      <button type="button" class="focus-btn" data-focus="step2">Disease Review</button>
+    </div>
 
     <main class="layout">
-      <section id="overview" class="panel">
+      <section id="cockpit" class="panel" data-step="meta">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Execution cockpit</p>
+            <h2>Step tracker</h2>
+          </div>
+          <p class="section-note">
+            Track current workflow status and deliverables.
+          </p>
+        </div>
+        <div id="roadmap-cards" class="roadmap-grid"></div>
+      </section>
+
+      <section id="overview" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Step 1 dashboard</p>
@@ -59,7 +79,7 @@
         </div>
       </section>
 
-      <section id="top10" class="panel">
+      <section id="top10" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Highlight set</p>
@@ -73,7 +93,7 @@
         <div id="top10-list" class="top10-list"></div>
       </section>
 
-      <section id="matrix" class="panel">
+      <section id="matrix" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Comparative view</p>
@@ -89,7 +109,67 @@
         </div>
       </section>
 
-      <section id="pipeline" class="panel">
+      <section id="step2" class="panel" data-step="step2">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Disease evidence module</p>
+            <h2>Climate-sensitive outcomes</h2>
+          </div>
+          <p class="section-note">
+            Outcome prioritization layer for climate-health disease selection.
+          </p>
+        </div>
+        <div id="step2-kpis" class="kpi-grid"></div>
+        <div class="chart-card">
+          <h3>Insights from Disease Evidence Review</h3>
+          <div id="step2-disease-insights" class="insight-grid"></div>
+        </div>
+        <div class="chart-grid">
+          <div class="chart-card">
+            <h3>Disease-Cause Evidence Matrix</h3>
+            <div id="step2-framework-table-wrap" class="table-wrap">
+              <table id="step2-framework-table"></table>
+            </div>
+          </div>
+        </div>
+        <div class="chart-grid">
+          <div class="chart-card">
+            <h3>Outcome categories</h3>
+            <div id="step2-outcome-chart" class="bar-chart"></div>
+          </div>
+          <div class="chart-card">
+            <h3>Exposure categories</h3>
+            <div id="step2-exposure-chart" class="bar-chart"></div>
+          </div>
+          <div class="chart-card">
+            <h3>Method readiness</h3>
+            <div id="step2-method-chart" class="bar-chart"></div>
+          </div>
+        </div>
+        <div class="chart-card">
+          <h3>EBOD Inclusion and Prioritization (Tier 1/2/3)</h3>
+          <div class="table-wrap">
+            <table id="step2-priority-table"></table>
+          </div>
+        </div>
+        <div class="chart-card">
+          <h3>Step 2 Paper Inventory</h3>
+          <div class="toolbar">
+            <input id="step2-paper-search" type="search" placeholder="Search paper, exposure, outcome..." />
+            <select id="step2-paper-exposure-filter"></select>
+            <select id="step2-paper-priority-filter"></select>
+          </div>
+          <div class="table-wrap">
+            <table id="step2-paper-table"></table>
+          </div>
+        </div>
+        <div class="chart-card">
+          <h3>Climate -> Pathway -> Outcome Map</h3>
+          <div id="step2-pathway-map" class="bar-chart"></div>
+        </div>
+      </section>
+
+      <section id="pipeline" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Common workflow</p>
@@ -102,7 +182,7 @@
         <div id="pipeline-flow" class="pipeline-flow"></div>
       </section>
 
-      <section id="inputs" class="panel">
+      <section id="inputs" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Data requirements</p>
@@ -124,7 +204,7 @@
         </div>
       </section>
 
-      <section id="inventory" class="panel">
+      <section id="inventory" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Full evidence base</p>
@@ -139,13 +219,14 @@
           <input id="search-input" type="search" placeholder="Search citation, category, exposure, outcome..." />
           <select id="phase-filter"></select>
           <select id="relevance-filter"></select>
+          <select id="disease-filter"></select>
         </div>
         <div class="table-wrap">
           <table id="inventory-table"></table>
         </div>
       </section>
 
-      <section id="insights" class="panel">
+      <section id="insights" class="panel" data-step="step1">
         <div class="section-head">
           <div>
             <p class="eyebrow">Synthesis</p>
@@ -157,6 +238,7 @@
     </main>
 
     <script src="data.js"></script>
+    <script src="step2_review.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
