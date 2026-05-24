@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EBOD Literature Review Updated</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Georgia, 'Times New Roman', serif;
+      background: #f4f1ea;
+      color: #1a1f26;
+      line-height: 1.6;
+    }
+    .page {
+      width: min(1100px, calc(100vw - 48px));
+      margin: 32px auto;
+      background: #fffdf9;
+      border: 1px solid #ddd5c9;
+      border-radius: 22px;
+      box-shadow: 0 18px 50px rgba(0,0,0,.08);
+      overflow: hidden;
+    }
+    header {
+      padding: 34px 40px 24px;
+      background: linear-gradient(135deg, #114f46, #c38d26);
+      color: white;
+    }
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 2.4rem;
+      line-height: 1.08;
+    }
+    header p {
+      margin: 0;
+      max-width: 820px;
+    }
+    main {
+      padding: 28px 40px 40px;
+    }
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 30px;
+      border-bottom: 1px solid #e6dece;
+      padding-bottom: 8px;
+    }
+    h3 {
+      font-size: 1.08rem;
+      margin-top: 20px;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 14px;
+      margin: 18px 0 8px;
+    }
+    .stat {
+      border: 1px solid #e0d7cb;
+      border-radius: 14px;
+      padding: 14px 16px;
+      background: #faf7f1;
+    }
+    .stat .num {
+      font-size: 1.8rem;
+      font-weight: 700;
+    }
+    .paper-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 14px;
+    }
+    .paper-card {
+      border: 1px solid #e0d7cb;
+      border-radius: 16px;
+      padding: 16px;
+      background: #fbf8f3;
+      break-inside: avoid;
+    }
+    ul, ol {
+      padding-left: 22px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    .appendix ul {
+      padding-left: 18px;
+    }
+    .appendix li span {
+      color: #56606d;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 0.92rem;
+    }
+    @media print {
+      body {
+        background: white;
+      }
+      .page {
+        width: 100%;
+        margin: 0;
+        border: none;
+        box-shadow: none;
+      }
+      header {
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>EBOD Literature Review Update</h1>
+      <p>This updated review integrates all 49 screened papers and 10 deeply reviewed anchor papers to define the most reusable methodology for an India-focused climate-health Environmental Burden of Disease study.</p>
+    </header>
+    <main>
+      <section>
+        <h2>Step 1 Summary</h2>
+        <div class="stats">
+          <div class="stat"><div class="num">49</div><div>Total papers screened</div></div>
+          <div class="stat"><div class="num">10</div><div>Deep-review highlighted papers</div></div>
+          <div class="stat"><div class="num">42</div><div>High India relevance papers</div></div>
+          <div class="stat"><div class="num">46</div><div>Papers using RR</div></div>
+          <div class="stat"><div class="num">42</div><div>Papers using AF/PAF</div></div>
+          <div class="stat"><div class="num">31</div><div>Papers using DALY/YLL/YLD</div></div>
+          <div class="stat"><div class="num">43</div><div>Papers with uncertainty analysis</div></div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Phase Coverage</h2>
+        <ul><li><strong>Phase 1 - EBOD methodology papers:</strong> 5 papers, 5 with high India relevance</li><li><strong>Phase 2 - Climate-health burden framework papers:</strong> 10 papers, 9 with high India relevance</li><li><strong>Phase 3 - Country or national implementation papers:</strong> 10 papers, 9 with high India relevance</li><li><strong>Phase 4 - India and South Asia evidence papers:</strong> 9 papers, 9 with high India relevance</li><li><strong>Phase 5 - Uncertainty and sensitivity papers:</strong> 10 papers, 5 with high India relevance</li><li><strong>Phase 6 - Exposure-specific support papers:</strong> 5 papers, 5 with high India relevance</li></ul>
+      </section>
+
+      <section>
+        <h2>Main Methodological Synthesis</h2>
+        <p>Across the review, the dominant logic is a comparative risk assessment chain that moves from exposure characterization to response-function selection, attributable fraction estimation, application to baseline burden, and conversion into YLL, YLD, and DALYs. This pipeline is highly reusable for India, especially for heat and air-pollution modules.</p>
+        <h3>Common EBOD Pipeline</h3>
+        <ol>
+          <li>Define climate or environmental exposure</li>
+          <li>Select exposure-response relationship or relative risk</li>
+          <li>Define counterfactual or minimum-risk exposure</li>
+          <li>Calculate attributable fraction or population attributable fraction</li>
+          <li>Apply the attributable fraction to baseline mortality or morbidity</li>
+          <li>Convert attributable burden into YLL, YLD, and DALYs</li>
+          <li>Quantify uncertainty and report assumptions</li>
+        </ol>
+        <h3>Recurring Input Requirements</h3>
+        <ul>
+          <li>Exposure distribution data</li>
+          <li>Relative risk or exposure-response coefficients</li>
+          <li>Baseline disease incidence, prevalence, or mortality</li>
+          <li>Population and demographic structure</li>
+          <li>Life tables and disability weights</li>
+          <li>Burden inputs for YLL, YLD, and DALY estimation</li>
+          <li>Uncertainty bounds for exposure and effect parameters</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>What Is Most Reusable for India</h2>
+        <ul><li><strong>Full pipeline:</strong> 10 of the top 10 papers</li><li><strong>RR integration:</strong> 10 of the top 10 papers</li><li><strong>AF/PAF calculation:</strong> 10 of the top 10 papers</li><li><strong>DALY conversion:</strong> 9 of the top 10 papers</li><li><strong>Uncertainty analysis:</strong> 8 of the top 10 papers</li><li><strong>Policy framing:</strong> 4 of the top 10 papers</li></ul>
+      </section>
+
+      <section>
+        <h2>Top 10 Highlighted Papers</h2>
+        <div class="paper-grid">
+            <section class="paper-card">
+              <h3>1. Introduction and methods: Environmental burden of disease at national level</h3>
+              <p><strong>Citation:</strong> World Health Organization. Introduction and methods: Environmental burden of disease at national level. WHO Environmental Burden of Disease Series, No. 1. Geneva: World Health Organization; 2004.</p>
+              <p><strong>Framework:</strong> Environmental Burden of Disease (EBD) framework based on: Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF) Disability-Adjusted Life Years (DALYs) (Page 10-18)</p>
+              <p><strong>Direct reuse:</strong> PAF equations DALY/YLL/YLD framework Comparative risk assessment structure Workflow sequence for burden estimation Exposure-response integration logic Uncertainty analysis structure National-level burden estimation framework Counterfactual exposure methodology</p>
+              <p><strong>Main findings:</strong> Environmental burden estimation can be standardized across countries.</p>
+              <p><strong>Limitations:</strong> Data limitations in low-resource settings Uncertainty in exposure-response relationships Limited exposure monitoring in many countries Dependence on assumptions for counterfactual exposure levels Incomplete epidemiological evidence for some environmental risks (Page 23-25)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>2. The impact of air pollution on deaths, disease burden, and life expectancy across the states of India: the Global Burden of Disease Study 2017</h3>
+              <p><strong>Citation:</strong> Balakrishnan K, Dey S, Gupta T, Dhaliwal RS, Brauer M, Cohen AJ, Stanaway JD, Beig G, Joshi TK, Aggarwal AN, Sabde Y, Sadhu H, Frostad J, Causey K, Godwin W, Shukla DK, Kumar GA, Varghese CM, Muraleedharan P, et al. The impact of air pollution on deaths, disease burden, and life expectancy across the states of India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2019;3(1):e26-e39.</p>
+              <p><strong>Framework:</strong> Global Burden of Disease (GBD) 2017 framework using: Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF) Integrated Exposure-Response (IER) functions DALY estimation framework (Page e27-e28)</p>
+              <p><strong>Direct reuse:</strong> Exposure assessment workflow RR/IER-based attributable burden estimation PAF methodology DALY estimation pipeline State-level comparative burden framework Uncertainty interval reporting structure TMREL-based burden estimation logic Integration of multiple pollution exposures</p>
+              <p><strong>Main findings:</strong> Air pollution caused a major health burden in India in 2017.</p>
+              <p><strong>Limitations:</strong> Sparse ground-level monitoring data in some regions Dependence on modeled exposure estimates Uncertainty in exposure-response relationships Potential underestimation of total burden due to excluded diseases Limited local epidemiological evidence for some exposure-disease relationships (Page e36)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>3. Estimating the burden of disease attributable to high ambient temperature in India: a national-level comparative risk assessment</h3>
+              <p><strong>Citation:</strong> Singh D, et al. Estimating the burden of disease attributable to high ambient temperature in India: a national-level comparative risk assessment. International Journal of Epidemiology. 2023;52(3):783-791.</p>
+              <p><strong>Framework:</strong> Comparative Risk Assessment (CRA) framework Population Attributable Fraction (PAF)-based burden estimation DALY framework using YLL and YLD components Climate-zone stratified burden estimation using Köppen-Geiger classification (Page 784-785)</p>
+              <p><strong>Direct reuse:</strong> Heat exposure burden workflow Climate-zone stratification framework PAF-based burden estimation RR integration methodology DALY/YLL/YLD estimation pipeline Comparative risk assessment structure National-to-subnational burden aggregation logic</p>
+              <p><strong>Main findings:</strong> High ambient temperature contributes substantially to mortality and disease burden in India.</p>
+              <p><strong>Limitations:</strong> Limited availability of high-resolution exposure data Potential uncertainty in exposure-response relationships Climate-zone aggregation may mask local heterogeneity Dependence on secondary burden estimates Limited evidence for some cause-specific relationships (Page 789)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>4. Quantitative risk assessment of the effects of climate change on selected causes of death, 2030s and 2050s</h3>
+              <p><strong>Citation:</strong> World Health Organization. Quantitative risk assessment of the effects of climate change on selected causes of death, 2030s and 2050s. Geneva: World Health Organization; 2014.</p>
+              <p><strong>Framework:</strong> Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF)-based burden estimation Scenario-based climate-health modelling DALY framework Exposure-response risk modelling (Page 3-8)</p>
+              <p><strong>Direct reuse:</strong> Comparative risk assessment framework Climate scenario modelling workflow PAF equations DALY/YLL/YLD estimation structure Climate-health attribution logic Uncertainty analysis framework Future projection methodology Exposure-response integration methods</p>
+              <p><strong>Main findings:</strong> Climate change is projected to substantially increase mortality burden globally.</p>
+              <p><strong>Limitations:</strong> Limited evidence for some climate-health pathways Incomplete representation of adaptation measures Uncertainty in future climate and socioeconomic scenarios Limited disease coverage Potential underestimation of total climate-related burden (Page 53-56)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>5. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment</h3>
+              <p><strong>Citation:</strong> Gupta S, et al. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment. Health Effects Institute Research Report 211. Boston, MA: Health Effects Institute; 2022.</p>
+              <p><strong>Framework:</strong> Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF)-based burden estimation Global Burden of Disease (GBD)-style DALY framework Source-apportioned exposure modelling (Page 4-8)</p>
+              <p><strong>Direct reuse:</strong> Source-apportioned exposure modelling workflow Comparative Risk Assessment framework PAF estimation methods RR integration methods DALY/YLL estimation pipeline State-level burden estimation structure Uncertainty analysis framework Exposure attribution methodology</p>
+              <p><strong>Main findings:</strong> Air pollution burden in India varies significantly by pollution source and geography.</p>
+              <p><strong>Limitations:</strong> Uncertainty in emissions inventories Sparse monitoring data in some regions Limitations in atmospheric transport modelling Dependence on global exposure-response functions Potential underestimation of some local pollution sources (Page 31-33)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>6. Health and economic impact of air pollution in the states of India: an analysis of data from the India State-Level Disease Burden Initiative</h3>
+              <p><strong>Citation:</strong> India State-Level Disease Burden Initiative Air Pollution Collaborators. Health and economic impact of air pollution in the states of India: an analysis of data from the India State-Level Disease Burden Initiative. The Lancet Planetary Health. 2020;4(12):e575-e587.</p>
+              <p><strong>Framework:</strong> Global Burden of Disease (GBD)-style framework Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF)-based burden estimation DALY framework Integrated Exposure-Response (IER) modelling (Page e576-e577)</p>
+              <p><strong>Direct reuse:</strong> Comparative Risk Assessment workflow Exposure assessment methodology RR and IER integration PAF estimation methods DALY/YLL/YLD estimation pipeline Economic burden estimation structure State-level burden estimation framework Uncertainty analysis methods</p>
+              <p><strong>Main findings:</strong> Air pollution caused major mortality, morbidity, and economic losses across India in 2019.</p>
+              <p><strong>Limitations:</strong> Sparse ground monitoring data in some regions Dependence on modeled exposure estimates Uncertainty in exposure-response functions Limited India-specific epidemiological evidence for some diseases Potential underestimation of burden due to excluded health outcomes (Page e584)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>7. Preventing disease through healthy environments: a global assessment of the burden of disease from environmental risks</h3>
+              <p><strong>Citation:</strong> Prüss-Üstün A, Wolf J, Corvalán C, Bos R, Neira M. Preventing disease through healthy environments: a global assessment of the burden of disease from environmental risks. Geneva: World Health Organization; 2016.</p>
+              <p><strong>Framework:</strong> Environmental Burden of Disease (EBD) framework Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF)-based burden estimation DALY framework (Page 29-35)</p>
+              <p><strong>Direct reuse:</strong> PAF equations DALY/YLL/YLD framework Comparative Risk Assessment workflow Counterfactual exposure methodology Exposure-response integration methods Environmental burden aggregation logic Uncertainty analysis framework Multi-risk-factor EBOD structure</p>
+              <p><strong>Main findings:</strong> A substantial proportion of global disease burden is environmentally attributable.</p>
+              <p><strong>Limitations:</strong> Incomplete epidemiological evidence for some exposure-disease relationships Limited exposure data in low-resource settings Potential overlap between environmental risk factors Uncertainty in exposure-response functions Limited disease coverage for some environmental risks (Page 71-74)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>8. Mortality risk attributable to high and low ambient temperature: a multicountry observational study</h3>
+              <p><strong>Citation:</strong> Gasparrini A, Guo Y, Hashizume M, Lavigne E, Zanobetti A, Schwartz J, Tobias A, Tong S, Rocklöv J, Forsberg B, Leone M, De Sario M, Bell ML, Guo YL, Wu CF, Kan H, Yi SM, Coelho MSZS, Saldiva PHN, et al. Mortality risk attributable to high and low ambient temperature: a multicountry observational study. The Lancet. 2015;386(9991):369-375.</p>
+              <p><strong>Framework:</strong> Exposure-response modelling framework Distributed Lag Non-Linear Models (DLNM) Attributable fraction estimation Temperature-attributable mortality estimation (Page 370-371)</p>
+              <p><strong>Direct reuse:</strong> DLNM exposure-response modelling framework Temperature-mortality attributable fraction methods Minimum Mortality Temperature (MMT) concept Exposure-response estimation workflow Lagged exposure modelling methods Uncertainty analysis methods</p>
+              <p><strong>Main findings:</strong> Most temperature-related mortality burden was attributable to cold rather than heat.</p>
+              <p><strong>Limitations:</strong> Limited representativeness for some global regions Potential residual confounding Variability in mortality coding across countries Limited evidence from low-income countries Exposure measured using ambient outdoor temperature only (Page 374)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>9. Methods and data sources for the Global Burden of Disease Study 2019: an overview of methods and uncertainty</h3>
+              <p><strong>Citation:</strong> Lozano R, Fullman N, Mumford JE, Knight M, Barthelemy CM, Abbafati C, Abbasi-Kangevari M, et al. Methods and data sources for the Global Burden of Disease Study 2019: an overview of methods and uncertainty. The Lancet. 2020;396(10258):1204-1222.</p>
+              <p><strong>Framework:</strong> Global Burden of Disease (GBD) framework Comparative Risk Assessment (CRA) Population Attributable Fraction (PAF)-based burden estimation Bayesian meta-regression methods Monte Carlo uncertainty propagation framework (Page 1205-1215)</p>
+              <p><strong>Direct reuse:</strong> Monte Carlo uncertainty propagation framework PAF estimation methods DALY/YLL/YLD equations Bayesian uncertainty workflow 1000-draw probabilistic estimation structure Comparative Risk Assessment pipeline Exposure-response integration methods Uncertainty interval estimation methods</p>
+              <p><strong>Main findings:</strong> GBD 2019 used a fully probabilistic burden estimation framework integrating multiple data sources.</p>
+              <p><strong>Limitations:</strong> Sparse data availability in some regions Heterogeneity in data quality Dependence on statistical modelling where data are limited Uncertainty in exposure-response relationships Potential bias from incomplete cause-of-death registration systems (Page 1215-1218)</p>
+            </section>
+            
+            <section class="paper-card">
+              <h3>10. The global burden of climate-sensitive diseases: how can we respond? Global Environmental Change</h3>
+              <p><strong>Citation:</strong> Campbell-Lendrum D, Woodruff R. The global burden of climate-sensitive diseases: how can we respond? Global Environmental Change. 2006;16(1):30-37.</p>
+              <p><strong>Framework:</strong> Comparative Risk Assessment (CRA) Environmental Burden of Disease (EBD) framework DALY-based burden estimation Population Attributable Fraction (PAF)-based attribution methods (Page 31-33)</p>
+              <p><strong>Direct reuse:</strong> Comparative Risk Assessment workflow PAF-based burden estimation logic DALY framework Climate-sensitive disease categorization Exposure-response integration methods Climate-health conceptual framework</p>
+              <p><strong>Main findings:</strong> Comparative risk assessment methods can be used to estimate climate-sensitive disease burden.</p>
+              <p><strong>Limitations:</strong> Limited epidemiological evidence for some climate-disease relationships High uncertainty in future climate projections Limited exposure-response data for many diseases Difficulty incorporating adaptation effects into burden estimates (Page 35-36)</p>
+            </section>
+            </div>
+      </section>
+
+      <section>
+        <h2>Implications for the India Climate-Health EBOD Study</h2>
+        <p>The review supports building the Indian climate-health EBOD study around WHO-style EBOD methods, GBD-aligned comparative risk assessment, and India-specific response functions wherever they are available. Heat and air pollution currently have the strongest evidence base because they offer clearer exposure metrics, more mature response functions, and existing attributable burden workflows.</p>
+      </section>
+
+      <section>
+        <h2>Gap Before Step 2</h2>
+        <ul>
+          <li>Disease selection still needs to be finalized for India.</li>
+          <li>India-specific RR functions exist for some but not all climate-sensitive outcomes.</li>
+          <li>Counterfactual exposure choices still need harmonization across disease modules.</li>
+          <li>Baseline burden inputs must be mapped cleanly for each shortlisted disease.</li>
+          <li>Climate-only pathways remain less standardized than air-pollution modules.</li>
+        </ul>
+      </section>
+
+      <section class="appendix">
+        <h2>Full Inventory Appendix</h2>
+        <h3>Phase 1 - EBOD methodology papers</h3><ul><li>Prüss A. Estimating the disease burden due to environmental exposures. Environmental Health Perspectives. 1998;106(9):235-242. <span>| Category: Foundational WHO framework paper | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Not reported | India relevance: High</span></li><li>Balakrishnan K et al. Burden of Outdoor Air Pollution in Kerala, India-A First Health Risk Assessment. Environmental Health Perspectives. 2015;123(10):1036-1042. <span>| Category: Applied EBoD methodology in India | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Health Effects Institute. Burden of Disease Attributable to Major Air Pollution Sources in India. Special Report 21. 2016. <span>| Category: National burden estimation (comparative risk assessment) | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>WHO. Quantification of the disease burden attributable to environmental risk factors: methods for the global analysis. 2007. <span>| Category: WHO methodological document | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Cohen AJ et al. The impact of air pollution on deaths, disease burden, and life expectancy across the states of India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2018;3(1):e26-e39. <span>| Category: Comparative risk assessment (GBD methodology) | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li></ul><h3>Phase 2 - Climate-health burden framework papers</h3><ul><li>World Health Organization. Quantitative risk assessment of the effects of climate change on selected causes of death, 2030s and 2050s. Geneva: World Health Organization; 2014. <span>| Category: Methodological guidance / scenario-based attributable burden estimation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Ebi KL, et al. The 2022 Lancet Countdown on health and climate change: policy brief for India. Lancet Countdown; 2022. <span>| Category: Comparative risk assessment / climate-health burden assessment | RR: Yes | AF/PAF: Not reported | DALY: Not reported | Uncertainty: Not reported | India relevance: High</span></li><li>Gasparrini A, Guo Y, Hashizume M, et al. Mortality risk attributable to high and low ambient temperature: a multicountry observational study. The Lancet. 2015;386(9991):369-375. <span>| Category: Exposure-response modelling / attributable mortality estimation | RR: Yes | AF/PAF: Yes | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Levy K, Woster AP, Goldstein RS, Carlton EJ. Untangling the impacts of climate change on waterborne diseases: a systematic review of relationships between diarrheal diseases and temperature, rainfall, flooding, and drought. Environmental Science &amp; Technology. 2016. <span>| Category: Systematic review / exposure-response synthesis | RR: Yes | AF/PAF: Not reported | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Campbell-Lendrum D, Corvalán C, Prüss-Üstün A. How much disease could climate change cause? In: Climate Change and Human Health: Risks and Responses. World Health Organization; 2003. <span>| Category: Methodological framework for environmental burden of disease estimation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Not reported | India relevance: High</span></li><li>Prüss-Üstün A, Wolf J, Corvalán C, et al. Preventing disease through healthy environments: a global assessment of the burden of disease from environmental risks. Geneva: World Health Organization; 2016. <span>| Category: Methodological framework / global environmental burden of disease | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Balbus J, Kinney P, Schwetzel T, et al. Framework for estimating the burden of disease attributable to climate change: application to the US Centers for Disease Control and Prevention Environmental Public Health Tracking Program. <span>| Category: Methodological workflow / attributable burden framework | RR: Yes | AF/PAF: Yes | DALY: Not reported | Uncertainty: Not reported | India relevance: Medium</span></li><li>Vicedo-Cabrera AM, Scovronick N, Sera F, et al. The burden of heat-related mortality attributable to recent human-induced climate change. Nature Climate Change. 2021;11(6):492-500. <span>| Category: Attributable burden estimation / climate attribution | RR: Yes | AF/PAF: Yes | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Gasparrini A, Guo Y, Hashizume M, et al. Projections of temperature-related excess mortality under climate change scenarios. The Lancet Planetary Health. 2017;1(9):e360-e367. <span>| Category: Scenario-based attributable burden / future projections | RR: Yes | AF/PAF: Yes | DALY: Not reported | Uncertainty: Yes | India relevance: High</span></li><li>Campbell-Lendrum D, Woodruff R. The global burden of climate-sensitive diseases: how can we respond? Global Environmental Change. 2006;16(1):30-37. <span>| Category: Methodological guidance / comparative risk assessment for climate-sensitive diseases | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Not reported | India relevance: High</span></li></ul><h3>Phase 3 - Country or national implementation papers</h3><ul><li>India State-Level Disease Burden Initiative Air Pollution Collaborators. Health and economic impact of air pollution in the states of India: an analysis of data from the India State-Level Disease Burden Initiative. The Lancet Planetary Health. 2020;4(12):e575-e587. <span>| Category: National-scale environmental burden of disease | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Vos T, et al. Morbidity and mortality attributable to ambient air pollution in China: a national health burden assessment. The Lancet Planetary Health. 2018;2(12):e524-e533. <span>| Category: National-level environmental burden-of-disease implementation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Vicedo-Cabrera AM, et al. Temperature-related mortality burden in Spain: a national time-series and attributable burden analysis. Environment International. 2020;140:105711. <span>| Category: National-scale climate-related burden estimation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>World Health Organization. Burden of disease from environmental noise: quantification of healthy life years lost in Europe. Copenhagen: WHO Regional Office for Europe; 2011. <span>| Category: Environmental burden of disease implementation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: Medium</span></li><li>India State-Level Disease Burden Initiative Collaborators. The state-level burden of disease in India 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet. 2020;396(10246):427-435. <span>| Category: National and subnational burden-of-disease implementation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Smith KR, et al. Comparative Risk Assessment of the Burden of Disease from Selected Environmental Risk Factors. In: Comparative Quantification of Health Risks: Global and Regional Burden of Disease Attributable to Selected Major Risk Factors. Geneva: World Health Organization; 2004. <span>| Category: Methodological - comparative risk assessment and attributable fraction implementation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Prüss-Üstün A, Martínez-Hernández V, et al. Safe water, sanitation and hygiene for all: an updated comparative risk assessment. PLOS One. 2019;14(12):e0224845. <span>| Category: Environmental burden-of-disease implementation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Gasparrini A, Guo Y, Hashizume M, et al. Mortality risk attributable to high and low ambient temperature: a multicountry observational study. The Lancet. 2015;386(9991):369-375. <span>| Category: Climate-related burden estimation with attributable fraction | RR: Yes | AF/PAF: Yes | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Vos T, et al. Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet. 2020;396(10258):1204-1222. <span>| Category: Global and national-scale EBOD implementation framework | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>World Health Organization. Introduction and methods: Environmental burden of disease at national level. WHO Environmental Burden of Disease Series, Number 1. Geneva: World Health Organization; 2004. <span>| Category: Methodological guide for national-scale EBOD implementation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li></ul><h3>Phase 4 - India and South Asia evidence papers</h3><ul><li>Irfan M, et al. Estimating the effect of annual PM2.5 exposure on mortality in India: an observational cohort analysis. The Lancet Planetary Health. 2024;8(4):e225-e234. <span>| Category: India-specific PM2.5-mortality burden estimation | RR: Yes | AF/PAF: Not reported | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Balakrishnan K, et al. The impact of air pollution on deaths, disease burden, and life expectancy in India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2018;3(1):e26-e39. <span>| Category: National-scale environmental / climate-amplified pollution burden | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Gupta S, et al. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment. Health Effects Institute Research Report 211. 2022. <span>| Category: Exposure-response and attributable burden for India-specific sources | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Singh RB, et al. Temperature-related mortality and morbidity in India: evidence from national-level time-series and cross-sectional studies. International Journal of Environmental Research and Public Health. 2021;18(17):9111. <span>| Category: India-specific temperature-health burden estimation | RR: Yes | AF/PAF: Yes | DALY: Not reported | Uncertainty: Yes | India relevance: High</span></li><li>Balakrishnan K, et al. The impact of air pollution on deaths, disease burden, and life expectancy in India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2018;3(1):e26-e39. <span>| Category: India-specific environmental burden of disease (PM2.5) | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Singh RB, et al. Temperature-related mortality and morbidity in India: evidence from national-level time-series and cross-sectional studies. International Journal of Environmental Research and Public Health. 2021;18(17):9111. <span>| Category: India-specific temperature-health burden estimation | RR: Yes | AF/PAF: Yes | DALY: Not reported | Uncertainty: Yes | India relevance: High</span></li><li>Irfan M, et al. Estimating the effect of annual PM2.5 exposure on mortality in India: an observational cohort analysis. The Lancet Planetary Health. 2024;8(4):e225-e234. <span>| Category: India-specific cohort-based PM2.5-mortality burden | RR: Yes | AF/PAF: Not reported | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Gupta S, et al. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment. Health Effects Institute Research Report 211. 2022. <span>| Category: Source-apportioned environmental burden of disease | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Singh D, et al. Estimating the burden of disease attributable to high ambient temperature in India: a national-level comparative risk assessment. International Journal of Epidemiology. 2023;52(3):783-791. <span>| Category: National-scale climate-related attributable burden estimation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li></ul><h3>Phase 5 - Uncertainty and sensitivity papers</h3><ul><li>Stevenson M, et al. Dealing with uncertainties in environmental burden of disease assessments. Environmental Health. 2009;8:19. <span>| Category: Uncertainty and sensitivity methodology for environmental burden of disease assessments | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>World Health Organization. Estimations of attributable burden of disease due to a risk factor: concepts, methods, and reporting. World Health Organization; 2024. <span>| Category: Methodological guidance for attributable burden estimation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Saltelli A, et al. Sensitivity analysis of environmental models: a systematic review with recommendations. Environmental Modelling &amp; Software. 2016;79:301-317. <span>| Category: Sensitivity and uncertainty analysis methodology | RR: Not reported | AF/PAF: Not reported | DALY: No | Uncertainty: Yes | India relevance: Medium</span></li><li>Pophali S, et al. A comparison of Green, Delta, and Monte Carlo methods to select 95% confidence intervals of the population-attributable fraction estimator. Journal of Preventive Medicine and Public Health. 2024;57(5):412-421. <span>| Category: PAF uncertainty estimation methodology | RR: Yes | AF/PAF: Yes | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Lozano R, et al. Methods and data sources for the Global Burden of Disease Study 2019: an overview of methods and uncertainty. The Lancet. 2020;396(10258):1215-1232. <span>| Category: Global burden of disease uncertainty framework | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Helbing P, et al. A methodology for performing global uncertainty and sensitivity analysis in environmental health risk assessment. Risk Analysis. 2009;29(1):13-30. <span>| Category: Uncertainty and sensitivity methodology for environmental health risk assessment | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>European Commission Joint Research Centre. Uncertainty and sensitivity analysis for policy decision-making. EUR 28799 EN. 2017. <span>| Category: Uncertainty and sensitivity guidance for policy models | RR: Not reported | AF/PAF: Not reported | DALY: No | Uncertainty: Yes | India relevance: Medium</span></li><li>RIVM. Trends in the environmental burden of disease in The Netherlands: uncertainties in DALY calculations. RIVM Report 500029001. 2020. <span>| Category: Environmental burden of disease uncertainty assessment | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: Medium</span></li><li>ISPOR Good Research Practices Task Force. Model parameter estimation and uncertainty in health-economic and disease-burden models. 2017. <span>| Category: Parameter uncertainty methodology for disease-burden models | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: Medium</span></li><li>Saltelli A, et al. Sensitivity and uncertainty analysis of complex models of disease transmission: an HIV model as an example. International Statistical Review. 1999;67(3):215-242. <span>| Category: Global sensitivity and uncertainty analysis methodology | RR: Not reported | AF/PAF: Not reported | DALY: No | Uncertainty: Yes | India relevance: Medium</span></li></ul><h3>Phase 6 - Exposure-specific support papers</h3><ul><li>Singh D, et al. Estimating the burden of disease attributable to high ambient temperature in India: a national-level comparative risk assessment. International Journal of Epidemiology. 2023;52(3):783-791. <span>| Category: National-scale climate-related attributable burden estimation | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Not reported | India relevance: High</span></li><li>Li M, et al. Ambient air pollution and daily mortality in ten cities of India: a causal modelling study. The Lancet Planetary Health. 2024;8(5):e411-e422. <span>| Category: India-specific PM2.5 exposure-response and attributable burden estimation | RR: Yes | AF/PAF: Yes | DALY: No | Uncertainty: Yes | India relevance: High</span></li><li>Irfan M, et al. Estimating the effect of annual PM2.5 exposure on mortality in India: an observational cohort analysis. The Lancet Planetary Health. 2024;8(4):e225-e234. <span>| Category: India-specific cohort-based PM2.5-mortality burden | RR: Yes | AF/PAF: Yes | DALY: Not reported | Uncertainty: Yes | India relevance: High</span></li><li>Gupta S, et al. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment. Health Effects Institute Research Report 211. 2022. <span>| Category: Source-apportioned environmental burden of disease | RR: Yes | AF/PAF: Yes | DALY: Yes | Uncertainty: Yes | India relevance: High</span></li><li>Li M, et al. Continued rise in health burden from ambient PM2.5 in India under changing socioeconomic and climate scenarios. Environmental Science &amp; Technology. 2024;58(19):8122-8133. <span>| Category: Climate-scenario-based PM2.5 burden estimation | RR: Yes | AF/PAF: Yes | DALY: Not reported | Uncertainty: Yes | India relevance: High</span></li></ul>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,305 @@
+* Full citation: Irfan M, et al. Estimating the effect of annual PM₂.₅ exposure on mortality in India: an observational cohort analysis. The Lancet Planetary Health. 2024;8(4):e225–e234.
+
+* Year: 2024
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: India
+
+* Paper category: India-specific PM₂.₅-mortality burden estimation
+
+* Exposure(s): Long-term annual PM₂.₅ exposure
+
+* Health outcome(s): All-cause mortality, cause-specific deaths
+
+* Framework/method used: Observational cohort analysis
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: PM₂.₅-associated mortality estimates and relative risks for India
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides India-specific PM₂.₅–mortality relative risks directly usable in India climate-air pollution EBOD modelling.
+
+* DOI or URL: [The Lancet Planetary Health article](https://doi.org/10.1016/S2542-5196%2824%2900045-X?utm_source=chatgpt.com)
+
+* Full citation: Balakrishnan K, et al. The impact of air pollution on deaths, disease burden, and life expectancy in India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2018;3(1):e26–e39.
+
+* Year: 2018
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: India
+
+* Paper category: National-scale environmental / climate-amplified pollution burden
+
+* Exposure(s): Ambient PM₂.₅, household air pollution, ambient ozone
+
+* Health outcome(s): DALYs, YLL, cause-specific deaths
+
+* Framework/method used: Global Burden of Disease (GBD) framework with RR-based PAF estimation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: State-level air pollution-attributable deaths, DALYs, and life expectancy impacts
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Strong India-specific RR-PAF-DALY implementation directly adaptable for climate-amplified pollution EBOD.
+
+* DOI or URL: [The Lancet Planetary Health article](https://doi.org/10.1016/S2542-5196%2818%2930266-3?utm_source=chatgpt.com)
+
+* Full citation: Gupta S, et al. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment. Health Effects Institute Research Report 211. 2022.
+
+* Year: 2022
+
+* Journal/source: Health Effects Institute
+
+* Country/region: India
+
+* Paper category: Exposure-response and attributable burden for India-specific sources
+
+* Exposure(s): Sectoral ambient PM₂.₅ sources including industry, transport, cooking, and agriculture
+
+* Health outcome(s): Attributable deaths, DALYs, YLL
+
+* Framework/method used: Comparative Risk Assessment (CRA)
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Source-specific attributable mortality and DALY estimates by state
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides source-apportioned PM₂.₅ burden estimates useful for climate-linked pollution EBOD modelling in India.
+
+* DOI or URL: [Health Effects Institute website](https://www.healtheffects.org/publication/burden-disease-attributable-major-air-pollution-sources-india?utm_source=chatgpt.com)
+
+* Full citation: Singh RB, et al. Temperature-related mortality and morbidity in India: evidence from national-level time-series and cross-sectional studies. International Journal of Environmental Research and Public Health. 2021;18(17):9111.
+
+* Year: 2021
+
+* Journal/source: International Journal of Environmental Research and Public Health
+
+* Country/region: India
+
+* Paper category: India-specific temperature-health burden estimation
+
+* Exposure(s): Daily ambient temperature extremes
+
+* Health outcome(s): Non-accidental mortality, hospitalizations, heat-related morbidity
+
+* Framework/method used: Time-series and cross-sectional analysis
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Not reported
+
+* Uncertainty analysis: Yes
+
+* Main output: Temperature-related mortality and morbidity estimates for India
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Supplies India-specific temperature-health exposure-response evidence for climate-related EBOD modelling.
+
+* DOI or URL: [IJERPH article](https://doi.org/10.3390/ijerph18179111?utm_source=chatgpt.com)
+
+* Full citation: Balakrishnan K, et al. The impact of air pollution on deaths, disease burden, and life expectancy in India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2018;3(1):e26–e39.
+
+* Year: 2018
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: India
+
+* Paper category: India-specific environmental burden of disease (PM₂.₅)
+
+* Exposure(s): Ambient PM₂.₅, household air pollution
+
+* Health outcome(s): Attributable deaths, DALYs, YLL
+
+* Framework/method used: Comparative Risk Assessment (CRA) with PAF-based DALY estimation under the Global Burden of Disease framework
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: State-level attributable deaths, DALYs, YLL, and life expectancy impacts from air pollution
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Fully documented India-scale CRA/PAF-to-DALY workflow directly reusable for climate-air pollution EBOD modules.
+
+* DOI or URL: [The Lancet Planetary Health article](https://doi.org/10.1016/S2542-5196%2818%2930266-3?utm_source=chatgpt.com)
+
+* Full citation: Singh RB, et al. Temperature-related mortality and morbidity in India: evidence from national-level time-series and cross-sectional studies. International Journal of Environmental Research and Public Health. 2021;18(17):9111.
+
+* Year: 2021
+
+* Journal/source: International Journal of Environmental Research and Public Health
+
+* Country/region: India
+
+* Paper category: India-specific temperature-health burden estimation
+
+* Exposure(s): Daily ambient temperature extremes
+
+* Health outcome(s): Non-accidental mortality, hospitalizations
+
+* Framework/method used: Time-series and cross-sectional analysis
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Not reported
+
+* Uncertainty analysis: Yes
+
+* Main output: Temperature-related mortality and morbidity estimates for India
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Provides India-specific exposure-response functions and attributable fractions for temperature-health burden modelling.
+
+* DOI or URL: [IJERPH article](https://doi.org/10.3390/ijerph18179111?utm_source=chatgpt.com)
+
+* Full citation: Irfan M, et al. Estimating the effect of annual PM₂.₅ exposure on mortality in India: an observational cohort analysis. The Lancet Planetary Health. 2024;8(4):e225–e234.
+
+* Year: 2024
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: India
+
+* Paper category: India-specific cohort-based PM₂.₅-mortality burden
+
+* Exposure(s): Long-term annual PM₂.₅ exposure
+
+* Health outcome(s): All-cause mortality, cause-specific mortality, attributable deaths
+
+* Framework/method used: Observational cohort analysis
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: PM₂.₅-associated mortality estimates and relative risks for India
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Supplies India-specific PM₂.₅ relative risks and attributable mortality estimates usable as ERF inputs for EBOD models.
+
+* DOI or URL: [The Lancet Planetary Health article](https://doi.org/10.1016/S2542-5196%2824%2900045-X?utm_source=chatgpt.com)
+
+* Full citation: Gupta S, et al. Burden of disease attributable to major air pollution sources in India: a comparative risk assessment. Health Effects Institute Research Report 211. 2022.
+
+* Year: 2022
+
+* Journal/source: Health Effects Institute
+
+* Country/region: India
+
+* Paper category: Source-apportioned environmental burden of disease
+
+* Exposure(s): Sectoral contributions to ambient PM₂.₅ including transport, industry, cooking, and agriculture
+
+* Health outcome(s): Attributable deaths, YLL, DALYs
+
+* Framework/method used: Comparative Risk Assessment (CRA)
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Source-specific attributable mortality and DALY estimates by state
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides India-specific source-apportioned PAF- and DALY-based burden estimation applicable to climate-linked source-mixing analyses.
+
+* DOI or URL: [Health Effects Institute report page](https://www.healtheffects.org/publication/burden-disease-attributable-major-air-pollution-sources-india?utm_source=chatgpt.com)
+
+* Full citation: Singh D, et al. Estimating the burden of disease attributable to high ambient temperature in India: a national-level comparative risk assessment. International Journal of Epidemiology. 2023;52(3):783–791.
+
+* Year: 2023
+
+* Journal/source: International Journal of Epidemiology
+
+* Country/region: India
+
+* Paper category: National-scale climate-related attributable burden estimation
+
+* Exposure(s): High ambient temperature
+
+* Health outcome(s): DALYs, YLL, YLD, heat-related attributable fraction
+
+* Framework/method used: Comparative Risk Assessment (CRA) using TMRED and climate-zone refined exposure classification
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: National heat-related DALYs, YLL, YLD, and attributable fractions stratified by climate zone
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Presents a full PAF-to-DALY workflow for heat-related burden estimation directly applicable to India climate-health EBOD design.
+
+* DOI or URL: [International Journal of Epidemiology article](https://doi.org/10.1093/ije/dyac192?utm_source=chatgpt.com)

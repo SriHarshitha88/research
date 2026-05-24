@@ -1,0 +1,81 @@
+Minutes of Meeting (MoM)
+
+1. Overall Context
+
+There are three key tasks:
+
+1. EBOD Study (Primary + Most Important → Paper Output)
+2. Synthetic Population
+3. Dental Caries Simulation App (Already researched, just build tool)
+
+--------------------------------------------------
+TASK 1: ENVIRONMENTAL BURDEN OF DISEASE (EBOD)
+--------------------------------------------------
+
+Core Logic of the Study
+
+1. Climate change increases risk of certain diseases
+2. Not all diseases are affected → must identify relevant ones
+3. For those diseases:
+   - Calculate Relative Risk (RR) due to climate exposure
+4. Use RR to estimate:
+   - Additional cases
+   - Additional mortality + morbidity
+5. Convert into additional DALYs lost
+6. Final Output:
+   → “Extra disease burden due to climate change in India”
+
+--------------------------------------------------
+STEP-BY-STEP PLAN
+--------------------------------------------------
+
+STEP 1 — Literature Review (Immediate Task)
+
+-Do literature review
+- Understand:
+  - Methodology
+  - Inputs used
+  - Diseases considered
+
+STEP 2 — Identify Diseases (India Context)
+
+Decide:
+- Which diseases from Egypt apply to India?
+- Which need to be removed?
+- Which new diseases should be added?
+
+STEP 3 — Calculate Relative Risk (RR)
+
+- Based on Indian studies/data
+- RR = additional risk due to climate exposure
+
+STEP 4 — Estimate Impact
+
+Convert RR into:
+- Additional cases
+- Additional deaths
+- Additional affected population
+
+STEP 5 — Compute DALYs
+
+Convert above into:
+- YLL + YLD → DALYs
+
+Final Output:
+→ Additional DALYs due to climate change
+
+--------------------------------------------------
+ADDITIONAL OUTPUT(this is out of scope for now)
+--------------------------------------------------
+
+Build a public calculator (Python/R Shiny):
+
+Users can input:
+- Country
+- Disease
+
+Tool outputs:
+- Climate-related risk
+- Disease burden
+Core Final Goal:
+→ Estimate additional disease burden in India caused by climate change

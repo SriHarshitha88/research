@@ -1,0 +1,344 @@
+* Full citation: Stevenson M, et al. Dealing with uncertainties in environmental burden of disease assessments. Environmental Health. 2009;8:19.
+
+* Year: 2009
+
+* Journal/source: Environmental Health
+
+* Country/region: Not reported
+
+* Paper category: Uncertainty and sensitivity methodology for environmental burden of disease assessments
+
+* Exposure(s): Environmental risk factors
+
+* Health outcome(s): Environmental burden of disease estimates
+
+* Framework/method used: Qualitative uncertainty categorization, bounding analyses, probabilistic uncertainty discussion, Monte Carlo methods
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Framework for identifying and characterizing uncertainty sources in EBD assessments
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides a structured uncertainty framework directly applicable to RR-, PAF-, and DALY-based India EBOD workflows.
+
+* DOI or URL: [Environmental Health article](https://doi.org/10.1186/1476-069X-8-19?utm_source=chatgpt.com)
+
+* Full citation: World Health Organization. Estimations of attributable burden of disease due to a risk factor: concepts, methods, and reporting. World Health Organization; 2024.
+
+* Year: 2024
+
+* Journal/source: World Health Organization
+
+* Country/region: Global
+
+* Paper category: Methodological guidance for attributable burden estimation
+
+* Exposure(s): Risk factors
+
+* Health outcome(s): Attributable burden, DALYs
+
+* Framework/method used: Population Attributable Fraction (PAF)-based attributable burden estimation guidance
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Guidance on attributable burden estimation and uncertainty reporting
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides standardized WHO guidance for documenting and testing uncertainty in PAF-based EBOD workflows.
+
+* DOI or URL: [WHO website](https://www.who.int?utm_source=chatgpt.com)
+
+* Full citation: Saltelli A, et al. Sensitivity analysis of environmental models: a systematic review with recommendations. Environmental Modelling & Software. 2016;79:301–317.
+
+* Year: 2016
+
+* Journal/source: Environmental Modelling & Software
+
+* Country/region: Not reported
+
+* Paper category: Sensitivity and uncertainty analysis methodology
+
+* Exposure(s): Environmental model inputs
+
+* Health outcome(s): Not reported
+
+* Framework/method used: Sobol global sensitivity analysis, Monte Carlo methods, variance-based sensitivity analysis
+
+* RR or exposure-response used: Not reported
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Recommendations for sensitivity analysis in environmental models
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Provides transferable sensitivity-analysis methods for exposure → RR → PAF → DALY modelling chains.
+
+* DOI or URL: [ScienceDirect article](https://doi.org/10.1016/j.envsoft.2016.02.004?utm_source=chatgpt.com)
+
+* Full citation: Pophali S, et al. A comparison of Green, Delta, and Monte Carlo methods to select 95% confidence intervals of the population-attributable fraction estimator. Journal of Preventive Medicine and Public Health. 2024;57(5):412–421.
+
+* Year: 2024
+
+* Journal/source: Journal of Preventive Medicine and Public Health
+
+* Country/region: Not reported
+
+* Paper category: PAF uncertainty estimation methodology
+
+* Exposure(s): Not reported
+
+* Health outcome(s): Population-attributable fraction estimates
+
+* Framework/method used: Monte Carlo simulation, Delta method, Greenland method
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Comparison of methods for deriving confidence intervals for PAF estimators
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Supplies practical Monte Carlo-based protocols for uncertainty estimation around PAF outputs in EBOD studies.
+
+* DOI or URL: [Journal article](https://doi.org/10.35371/jpmph.2024.57.5.412?utm_source=chatgpt.com)
+
+* Full citation: Lozano R, et al. Methods and data sources for the Global Burden of Disease Study 2019: an overview of methods and uncertainty. The Lancet. 2020;396(10258):1215–1232.
+
+* Year: 2020
+
+* Journal/source: The Lancet
+
+* Country/region: Global
+
+* Paper category: Global burden of disease uncertainty framework
+
+* Exposure(s): Environmental and occupational risks
+
+* Health outcome(s): DALYs, YLL, YLD
+
+* Framework/method used: Probabilistic Monte Carlo uncertainty propagation across GBD estimation pipeline
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: GBD uncertainty propagation framework and uncertainty interval estimation
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Demonstrates full probabilistic uncertainty propagation from exposure and RR inputs through DALY outputs in GBD-style workflows.
+
+* DOI or URL: [The Lancet article](https://doi.org/10.1016/S0140-6736%2820%2930923-2?utm_source=chatgpt.com)
+
+Source file: 
+
+
+* Full citation: Helbing P, et al. A methodology for performing global uncertainty and sensitivity analysis in environmental health risk assessment. Risk Analysis. 2009;29(1):13–30.
+
+* Year: 2009
+
+* Journal/source: Risk Analysis
+
+* Country/region: Not reported
+
+* Paper category: Uncertainty and sensitivity methodology for environmental health risk assessment
+
+* Exposure(s): Environmental health risk factors
+
+* Health outcome(s): Environmental health risk and burden estimates
+
+* Framework/method used: Global sensitivity analysis using variance-based methods and Monte Carlo uncertainty propagation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Framework for global uncertainty and sensitivity analysis in environmental health risk assessment
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Provides a rigorous global sensitivity-analysis workflow applicable to exposure–RR–PAF–DALY EBOD chains.
+
+* DOI or URL: [Risk Analysis article](https://doi.org/10.1111/j.1539-6924.2008.01101.x?utm_source=chatgpt.com)
+
+* Full citation: European Commission Joint Research Centre. Uncertainty and sensitivity analysis for policy decision-making. EUR 28799 EN. 2017.
+
+* Year: 2017
+
+* Journal/source: European Commission Joint Research Centre
+
+* Country/region: Europe
+
+* Paper category: Uncertainty and sensitivity guidance for policy models
+
+* Exposure(s): Environmental and policy-model inputs
+
+* Health outcome(s): Not reported
+
+* Framework/method used: Probabilistic Monte Carlo sampling, variance-based sensitivity analysis, scenario-based bounding
+
+* RR or exposure-response used: Not reported
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Guidance for uncertainty and sensitivity analysis in policy-relevant models
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Offers transferable Monte Carlo and sensitivity-analysis workflows for national-scale EBOD scenario modelling.
+
+* DOI or URL: [JRC publication page](https://publications.jrc.ec.europa.eu/repository/handle/111111111/122132?utm_source=chatgpt.com)
+
+* Full citation: RIVM. Trends in the environmental burden of disease in The Netherlands: uncertainties in DALY calculations. RIVM Report 500029001. 2020.
+
+* Year: 2020
+
+* Journal/source: RIVM
+
+* Country/region: Netherlands
+
+* Paper category: Environmental burden of disease uncertainty assessment
+
+* Exposure(s): Environmental risk factors
+
+* Health outcome(s): DALYs
+
+* Framework/method used: DALY uncertainty classification and sensitivity assessment
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Classification and discussion of uncertainties in DALY calculations for national EBD estimates
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Demonstrates transparent categorization of uncertainty sources in DALY-based national EBOD workflows.
+
+* DOI or URL: [RIVM report PDF](https://www.rivm.nl/bibliotheek/rapporten/500029001.pdf?utm_source=chatgpt.com)
+
+* Full citation: ISPOR Good Research Practices Task Force. Model parameter estimation and uncertainty in health-economic and disease-burden models. 2017.
+
+* Year: 2017
+
+* Journal/source: ISPOR
+
+* Country/region: Not reported
+
+* Paper category: Parameter uncertainty methodology for disease-burden models
+
+* Exposure(s): Model parameters and risk-factor inputs
+
+* Health outcome(s): Disease-burden model outputs
+
+* Framework/method used: Probabilistic sensitivity analysis (PSA) and Monte Carlo simulation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Framework for parameter estimation and probabilistic uncertainty analysis in disease-burden models
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Provides a reusable PSA framework for defining parameter distributions and uncertainty propagation in EBOD studies.
+
+* DOI or URL: [ISPOR report PDF](https://www.ispor.org/docs/default-source/resources/outcomes-research-guidelines-index/model-parameter-estimation-and-uncertainty.pdf?utm_source=chatgpt.com)
+
+* Full citation: Saltelli A, et al. Sensitivity and uncertainty analysis of complex models of disease transmission: an HIV model as an example. International Statistical Review. 1999;67(3):215–242.
+
+* Year: 1999
+
+* Journal/source: International Statistical Review
+
+* Country/region: Not reported
+
+* Paper category: Global sensitivity and uncertainty analysis methodology
+
+* Exposure(s): Model parameters and transmission-model inputs
+
+* Health outcome(s): Disease transmission and burden-model outputs
+
+* Framework/method used: Variance-based global sensitivity analysis and Monte Carlo propagation
+
+* RR or exposure-response used: Not reported
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Framework for sensitivity and uncertainty analysis in complex disease models
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Introduces transferable global sensitivity-analysis methods for identifying dominant uncertainty drivers in EBOD models.
+
+* DOI or URL: [JSTOR article page](https://doi.org/10.2307/1403510?utm_source=chatgpt.com)
+
+Source file: 

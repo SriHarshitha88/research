@@ -1,0 +1,340 @@
+* Full citation: India State-Level Disease Burden Initiative Air Pollution Collaborators. Health and economic impact of air pollution in the states of India: an analysis of data from the India State-Level Disease Burden Initiative. The Lancet Planetary Health. 2020;4(12):e575–e587.
+
+* Year: 2020
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: India
+
+* Paper category: National-scale environmental burden of disease
+
+* Exposure(s): Ambient PM₂.₅, household air pollution, ambient ozone
+
+* Health outcome(s): Attributable deaths, DALYs, premature mortality, morbidity
+
+* Framework/method used: Global Burden of Disease (GBD)-style PAF-to-DALY estimation framework
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: State-level attributable deaths, DALYs, and economic losses from air pollution
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Direct India implementation of a GBD-style environmental burden estimation pipeline transferable to climate-health EBOD modules.
+
+* DOI or URL: [The Lancet Planetary Health article](https://doi.org/10.1016/S2542-5196%2820%2930298-9?utm_source=chatgpt.com)
+
+* Full citation: Vos T, et al. Morbidity and mortality attributable to ambient air pollution in China: a national health burden assessment. The Lancet Planetary Health. 2018;2(12):e524–e533.
+
+* Year: 2018
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: China
+
+* Paper category: National-level environmental burden-of-disease implementation
+
+* Exposure(s): Ambient PM₂.₅, ozone
+
+* Health outcome(s): Attributable deaths, YLL, DALYs
+
+* Framework/method used: Exposure-response and PAF-based burden estimation framework
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: National estimates of attributable deaths, YLL, and DALYs due to air pollution
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Strong national-scale ERF-PAF-DALY implementation with uncertainty analysis adaptable to India EBOD.
+
+* DOI or URL: [The Lancet Planetary Health journal page](https://www.thelancet.com/journals/lanplh/home?utm_source=chatgpt.com)
+
+* Full citation: Vicedo-Cabrera AM, et al. Temperature-related mortality burden in Spain: a national time-series and attributable burden analysis. Environment International. 2020;140:105711.
+
+* Year: 2020
+
+* Journal/source: Environment International
+
+* Country/region: Spain
+
+* Paper category: National-scale climate-related burden estimation
+
+* Exposure(s): Non-optimal ambient temperature
+
+* Health outcome(s): Attributable deaths, YLL, mortality fractions
+
+* Framework/method used: Time-series attributable burden analysis using temperature-mortality exposure-response functions
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Regional and age-specific temperature-related mortality burden estimates
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Demonstrates a reusable national-level temperature-to-attributable-burden workflow for climate-health EBOD studies.
+
+* DOI or URL: [Environment International article](https://doi.org/10.1016/j.envint.2020.105711?utm_source=chatgpt.com)
+
+* Full citation: World Health Organization. Burden of disease from environmental noise: quantification of healthy life years lost in Europe. Copenhagen: WHO Regional Office for Europe; 2011.
+
+* Year: 2011
+
+* Journal/source: WHO Regional Office for Europe
+
+* Country/region: Europe
+
+* Paper category: Environmental burden of disease implementation
+
+* Exposure(s): Environmental noise from road, rail, and aircraft traffic
+
+* Health outcome(s): DALYs, YLD, annoyance, sleep disturbance, cardiovascular disease, tinnitus
+
+* Framework/method used: Environmental Burden of Disease (EBD) framework using DALY estimation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Healthy life years lost attributable to environmental noise
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Useful example of a structured national-style EBOD workflow for non-air-pollution environmental risks.
+
+* DOI or URL: [WHO Europe publication page](https://www.who.int/europe/publications/i/item/9789289002295?utm_source=chatgpt.com)
+
+* Full citation: India State-Level Disease Burden Initiative Collaborators. The state-level burden of disease in India 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet. 2020;396(10246):427–435.
+
+* Year: 2020
+
+* Journal/source: The Lancet
+
+* Country/region: India
+
+* Paper category: National and subnational burden-of-disease implementation
+
+* Exposure(s): Air pollution, occupational exposures, unsafe water and sanitation, environmental risks
+
+* Health outcome(s): DALYs, YLL, YLD, attributable fractions
+
+* Framework/method used: Global Burden of Disease (GBD) framework with RR-based attributable risk estimation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: State-level burden estimates by risk, cause, age, and sex
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Core reference for understanding India’s subnational EBOD implementation and DALY decomposition methods.
+
+* DOI or URL: [The Lancet article](https://doi.org/10.1016/S0140-6736%2820%2930977-0?utm_source=chatgpt.com)
+
+* Full citation: Smith KR, et al. Comparative Risk Assessment of the Burden of Disease from Selected Environmental Risk Factors. In: Comparative Quantification of Health Risks: Global and Regional Burden of Disease Attributable to Selected Major Risk Factors. Geneva: World Health Organization; 2004.
+
+* Year: 2004
+
+* Journal/source: World Health Organization
+
+* Country/region: Multiple countries
+
+* Paper category: Methodological – comparative risk assessment and attributable fraction implementation
+
+* Exposure(s): Household air pollution, outdoor air pollution, water, sanitation, climate-sensitive infections
+
+* Health outcome(s): Attributable deaths, DALYs, YLL, YLD
+
+* Framework/method used: Comparative Risk Assessment (CRA) with Population Attributable Fraction (PAF) methodology
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Environmental attributable burden estimates by risk factor and disease outcome
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides worked PAF- and DALY-based environmental burden equations reusable for India-style EBOD workflows.
+
+* DOI or URL: [WHO publication page](https://www.who.int/publications/i/item/9241580348?utm_source=chatgpt.com)
+
+* Full citation: Prüss-Üstün A, Martínez-Hernández V, et al. Safe water, sanitation and hygiene for all: an updated comparative risk assessment. PLOS One. 2019;14(12):e0224845.
+
+* Year: 2019
+
+* Journal/source: PLOS One
+
+* Country/region: Global
+
+* Paper category: Environmental burden-of-disease implementation
+
+* Exposure(s): Unsafe water, inadequate sanitation, lack of hygiene
+
+* Health outcome(s): DALYs, YLL, YLD for diarrhoeal and WASH-related diseases
+
+* Framework/method used: Comparative Risk Assessment (CRA)
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: National and global WASH-attributable burden estimates
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Clear CRA-to-PAF-to-DALY workflow adaptable for climate-sensitive diarrhoeal burden estimation in India.
+
+* DOI or URL: [PLOS One article](https://doi.org/10.1371/journal.pone.0224845?utm_source=chatgpt.com)
+
+* Full citation: Gasparrini A, Guo Y, Hashizume M, et al. Mortality risk attributable to high and low ambient temperature: a multicountry observational study. The Lancet. 2015;386(9991):369–375.
+
+* Year: 2015
+
+* Journal/source: The Lancet
+
+* Country/region: 13 countries
+
+* Paper category: Climate-related burden estimation with attributable fraction
+
+* Exposure(s): Non-optimal ambient temperature
+
+* Health outcome(s): All-cause mortality, attributable deaths, mortality fractions
+
+* Framework/method used: Exposure-response modelling and attributable fraction estimation using Distributed Lag Non-Linear Models (DLNM)
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Temperature-attributable mortality fractions and deaths across multiple countries
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Widely used ERF-to-attributable-fraction methodology for temperature-related mortality estimation.
+
+* DOI or URL: [The Lancet article](https://doi.org/10.1016/S0140-6736%2814%2962114-0?utm_source=chatgpt.com)
+
+* Full citation: Vos T, et al. Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet. 2020;396(10258):1204–1222.
+
+* Year: 2020
+
+* Journal/source: The Lancet
+
+* Country/region: 204 countries and territories
+
+* Paper category: Global and national-scale EBOD implementation framework
+
+* Exposure(s): Environmental and occupational risks, climate-sensitive risks
+
+* Health outcome(s): DALYs, YLL, YLD, attributable fractions
+
+* Framework/method used: Global Burden of Disease (GBD) framework
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Global and national burden estimates by disease, injury, and risk factor
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Standardized national-level EBOD framework underlying India-specific GBD burden estimation workflows.
+
+* DOI or URL: [The Lancet article](https://doi.org/10.1016/S0140-6736%2820%2930924-4?utm_source=chatgpt.com)
+
+* Full citation: World Health Organization. Introduction and methods: Environmental burden of disease at national level. WHO Environmental Burden of Disease Series, Number 1. Geneva: World Health Organization; 2004.
+
+* Year: 2004
+
+* Journal/source: World Health Organization
+
+* Country/region: Global
+
+* Paper category: Methodological guide for national-scale EBOD implementation
+
+* Exposure(s): Air pollution, water, sanitation, indoor smoke, noise, environmental risks
+
+* Health outcome(s): DALYs, YLL, YLD, attributable fractions
+
+* Framework/method used: Environmental Burden of Disease (EBD) framework with PAF and DALY estimation methods
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Step-by-step methodology for national-level environmental burden estimation
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Foundational manual with explicit formulas and workflows directly applicable to India climate-sensitive EBOD studies.
+
+* DOI or URL: [WHO IRIS publication page](https://apps.who.int/iris/handle/10665/42909?utm_source=chatgpt.com)
+

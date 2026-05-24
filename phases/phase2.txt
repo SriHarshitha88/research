@@ -1,0 +1,340 @@
+* Full citation: World Health Organization. Quantitative risk assessment of the effects of climate change on selected causes of death, 2030s and 2050s. Geneva: World Health Organization; 2014.
+
+* Year: 2014
+
+* Journal/source: World Health Organization report
+
+* Country/region: Global
+
+* Paper category: Methodological guidance / scenario-based attributable burden estimation
+
+* Exposure(s): Temperature, diarrhoeal risk related to climate change, undernutrition pathways
+
+* Health outcome(s): Mortality, climate-attributable health burden
+
+* Framework/method used: Comparative Risk Assessment (CRA), scenario modelling
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Projected climate-attributable mortality estimates for 2030s and 2050s
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Canonical WHO framework for estimating climate-attributable burden using CRA and scenario projections applicable to India.
+
+* DOI or URL: [WHO report page](https://www.who.int/publications/i/item/9789241507691?utm_source=chatgpt.com)
+
+* Full citation: Ebi KL, et al. The 2022 Lancet Countdown on health and climate change: policy brief for India. Lancet Countdown; 2022.
+
+* Year: 2022
+
+* Journal/source: Lancet Countdown policy brief
+
+* Country/region: India
+
+* Paper category: Comparative risk assessment / climate-health burden assessment
+
+* Exposure(s): Heat, air pollution interactions, extreme weather events
+
+* Health outcome(s): Mortality, morbidity, climate-sensitive disease burden
+
+* Framework/method used: Scenario modelling, exposure-response application
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: Not reported
+
+* Uncertainty analysis: Not reported
+
+* Main output: Indicators and projections of climate-related health impacts in India
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Provides India-focused climate-health burden estimation approaches and applied exposure-response modelling.
+
+* DOI or URL: [Lancet Countdown India policy brief](https://www.lancetcountdown.org/2022-report/?utm_source=chatgpt.com)
+
+* Full citation: Gasparrini A, Guo Y, Hashizume M, et al. Mortality risk attributable to high and low ambient temperature: a multicountry observational study. The Lancet. 2015;386(9991):369–375.
+
+* Year: 2015
+
+* Journal/source: The Lancet
+
+* Country/region: Multi-country
+
+* Paper category: Exposure-response modelling / attributable mortality estimation
+
+* Exposure(s): Ambient temperature
+
+* Health outcome(s): All-cause mortality
+
+* Framework/method used: Distributed Lag Non-Linear Models (DLNM), attributable risk estimation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Temperature-attributable mortality fractions and deaths across countries
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Widely used methodological basis for heat-related attributable mortality estimation in climate-health burden studies.
+
+* DOI or URL: [The Lancet article page](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2814%2962114-0/fulltext?utm_source=chatgpt.com)
+
+* Full citation: Levy K, Woster AP, Goldstein RS, Carlton EJ. Untangling the impacts of climate change on waterborne diseases: a systematic review of relationships between diarrheal diseases and temperature, rainfall, flooding, and drought. Environmental Science & Technology. 2016.
+
+* Year: 2016
+
+* Journal/source: Environmental Science & Technology
+
+* Country/region: Global
+
+* Paper category: Systematic review / exposure-response synthesis
+
+* Exposure(s): Temperature, rainfall, flooding, drought
+
+* Health outcome(s): Diarrhoeal disease
+
+* Framework/method used: Exposure-response synthesis
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Not reported
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Quantitative relationships between climate variables and diarrhoeal disease outcomes
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Useful source of exposure-response evidence for estimating climate-sensitive diarrhoeal burden in India.
+
+* DOI or URL: [ACS Publications page](https://pubs.acs.org/doi/10.1021/acs.est.5b06186?utm_source=chatgpt.com)
+
+* Full citation: Campbell-Lendrum D, Corvalán C, Prüss-Üstün A. How much disease could climate change cause? In: Climate Change and Human Health: Risks and Responses. World Health Organization; 2003.
+
+* Year: 2003
+
+* Journal/source: World Health Organization book chapter
+
+* Country/region: Global
+
+* Paper category: Methodological framework for environmental burden of disease estimation
+
+* Exposure(s): Temperature, vector-borne pathways, water-related pathways, extreme events
+
+* Health outcome(s): DALYs, mortality, morbidity
+
+* Framework/method used: Comparative Risk Assessment (CRA), Environmental Burden of Disease (EBoD) framework
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Not reported
+
+* Main output: Framework for estimating disease burden attributable to climate change
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Foundational WHO methodological framework directly relevant for India-focused climate EBoD studies.
+
+* DOI or URL: [WHO publication page](https://www.who.int/publications/i/item/climate-change-and-human-health-risks-and-responses?utm_source=chatgpt.com)
+
+
+* Full citation: Prüss-Üstün A, Wolf J, Corvalán C, et al. Preventing disease through healthy environments: a global assessment of the burden of disease from environmental risks. Geneva: World Health Organization; 2016.
+
+* Year: 2016
+
+* Journal/source: World Health Organization
+
+* Country/region: Global
+
+* Paper category: Methodological framework / global environmental burden of disease
+
+* Exposure(s): Air pollution, unsafe water and sanitation, climate-related temperatures, extreme weather, malnutrition pathways
+
+* Health outcome(s): DALYs, attributable deaths, YLL, YLD
+
+* Framework/method used: Population Attributable Fraction (PAF)-based Environmental Burden of Disease framework
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Yes
+
+* Main output: Environmental attributable burden estimates in DALYs and deaths
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Provides a direct PAF × DALY workflow adaptable for India climate-sensitive EBOD estimation.
+
+* DOI or URL: [WHO publication page](https://www.who.int/publications/i/item/9789241565196?utm_source=chatgpt.com)
+
+* Full citation: Balbus J, Kinney P, Schwetzel T, et al. Framework for estimating the burden of disease attributable to climate change: application to the US Centers for Disease Control and Prevention Environmental Public Health Tracking Program.
+
+* Year: 2010
+
+* Journal/source: Environmental Health Perspectives
+
+* Country/region: United States
+
+* Paper category: Methodological workflow / attributable burden framework
+
+* Exposure(s): Temperature extremes, ozone, air pollution amplification, vector-related indicators
+
+* Health outcome(s): Attributable deaths, hospitalizations, burden estimates
+
+* Framework/method used: RR/PAF-based attributable burden framework with scenario-based exposure-response functions
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Not reported
+
+* Uncertainty analysis: Not reported
+
+* Main output: Framework for estimating climate-sensitive attributable burden
+
+* India relevance: Medium
+
+* Should this be shortlisted in top 10: Maybe
+
+* One-line reason: Describes a transferable step-wise attributable burden workflow for climate-sensitive outcomes.
+
+* DOI or URL: Not reported
+
+* Full citation: Vicedo-Cabrera AM, Scovronick N, Sera F, et al. The burden of heat-related mortality attributable to recent human-induced climate change. Nature Climate Change. 2021;11(6):492–500.
+
+* Year: 2021
+
+* Journal/source: Nature Climate Change
+
+* Country/region: Multi-country global study
+
+* Paper category: Attributable burden estimation / climate attribution
+
+* Exposure(s): Ambient heat attributable to anthropogenic climate change
+
+* Health outcome(s): Heat-related mortality, excess mortality fractions
+
+* Framework/method used: Exposure-response modelling with attributable fraction estimation and climate attribution analysis
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: No
+
+* Uncertainty analysis: Yes
+
+* Main output: Fraction and number of heat-related deaths attributable to anthropogenic climate change
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Strong example of RR- and AF-based climate attribution methodology transferable to India heat burden estimation.
+
+* DOI or URL: [Nature Climate Change article](https://doi.org/10.1038/s41558-021-01058-x?utm_source=chatgpt.com)
+
+* Full citation: Gasparrini A, Guo Y, Hashizume M, et al. Projections of temperature-related excess mortality under climate change scenarios. The Lancet Planetary Health. 2017;1(9):e360–e367.
+
+* Year: 2017
+
+* Journal/source: The Lancet Planetary Health
+
+* Country/region: Multi-country global study
+
+* Paper category: Scenario-based attributable burden / future projections
+
+* Exposure(s): Ambient temperature, climate change scenarios
+
+* Health outcome(s): Excess mortality, attributable fractions
+
+* Framework/method used: Exposure-response functions with scenario-based attributable mortality projections
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Not reported
+
+* Uncertainty analysis: Yes
+
+* Main output: Future projections of temperature-related excess mortality under climate scenarios
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Demonstrates a full ERF-to-attributable mortality workflow suitable for India climate scenario modelling.
+
+* DOI or URL: [The Lancet Planetary Health article](https://doi.org/10.1016/S2542-5196%2817%2930156-0?utm_source=chatgpt.com)
+
+* Full citation: Campbell-Lendrum D, Woodruff R. The global burden of climate-sensitive diseases: how can we respond? Global Environmental Change. 2006;16(1):30–37.
+
+* Year: 2006
+
+* Journal/source: Global Environmental Change
+
+* Country/region: Global
+
+* Paper category: Methodological guidance / comparative risk assessment for climate-sensitive diseases
+
+* Exposure(s): Temperature, precipitation, flooding, vector-related climatology
+
+* Health outcome(s): Diarrhoeal disease, malaria, dengue, malnutrition, climate-sensitive disease burden
+
+* Framework/method used: Comparative Risk Assessment (CRA) and DALY-based burden estimation
+
+* RR or exposure-response used: Yes
+
+* AF/PAF used: Yes
+
+* DALY/YLL/YLD used: Yes
+
+* Uncertainty analysis: Not reported
+
+* Main output: Framework linking climate exposures to disease burden estimation
+
+* India relevance: High
+
+* Should this be shortlisted in top 10: Yes
+
+* One-line reason: Foundational CRA- and DALY-based framework directly relevant to India climate EBOD design.
+
+* DOI or URL: [ScienceDirect article page](https://doi.org/10.1016/j.gloenvcha.2005.10.001?utm_source=chatgpt.com)

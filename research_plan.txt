@@ -1,0 +1,140 @@
+# Meeting Summary – EBOD Climate Change Research Plan
+
+## Overall Deadline
+
+All 5 research steps discussed in the meeting should be completed before **June 15th**.
+
+## Immediate Task
+
+* LinkedIn post to be completed by **today or tomorrow**
+
+---
+
+# Research Steps
+
+## Step 1
+
+### Review previous ways in which EBOD has been conducted in any country related to climate change
+
+Tasks:
+
+* Study existing EBOD methodologies
+* Review country-wise case studies
+* Understand frameworks used for climate-related burden estimation
+* Identify commonly used indicators, equations, and assumptions
+
+Expected Output:
+
+* Summary table of EBOD methodologies
+* Comparative notes across countries
+
+---
+
+## Step 2
+
+### Review literature to understand what health outcomes are associated with climate change
+
+Tasks:
+
+* Identify climate-sensitive diseases and health outcomes
+* Review peer-reviewed literature
+* Categorize outcomes:
+
+  * Heat-related
+  * Air pollution-related
+  * Vector-borne
+  * Respiratory
+  * Cardiovascular
+  * Mental health, etc.
+
+Expected Output:
+
+* Disease/outcome literature review sheet
+* Categorized health outcome list
+
+---
+
+## Step 3
+
+### Identify evidence relevant for the Indian context (relative risk, exposure-response, etc.)
+
+Tasks:
+
+* Find India-specific studies
+* Collect:
+
+  * Relative Risk (RR)
+  * Exposure-response relationships
+  * Confidence intervals
+  * TMREL values
+  * Environmental exposure data
+* Identify usable datasets and missing variables
+
+Expected Output:
+
+* India-specific evidence table
+* Data source mapping sheet
+
+---
+
+## Step 4
+
+### Review literature and identify the appropriate model to associate environmental burden, climate change, and listed health outcomes along with required data inputs
+
+Tasks:
+
+* Identify suitable modeling approach
+* Understand relationships between:
+
+  * Climate variables
+  * Environmental exposure
+  * Health outcomes
+* Finalize:
+
+  * Model structure
+  * Equations
+  * Required inputs
+  * Assumptions
+* Review burden calculation methods
+
+Expected Output:
+
+* Finalized methodological framework
+* Model pipeline and data requirement sheet
+
+---
+
+## Step 5
+
+### Do the analysis and results summary
+
+Tasks:
+
+* Perform calculations and analysis
+* Generate tables and graphs
+* Summarize findings in simple format
+* Prepare clear interpretation of results
+
+Expected Output:
+
+* Preliminary results
+* Simple analysis summary
+* Figures/tables for manuscript
+
+---
+
+# Manuscript Timeline
+
+## June
+
+* Start manuscript writing
+* Compile methodology, literature review, and results
+
+## June 10
+
+* Submit manuscript draft to sir for review
+
+## June 10 – June 12
+
+* Incorporate feedback and required changes
+* Refine manuscript and finalize

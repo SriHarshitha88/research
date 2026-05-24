@@ -1,0 +1,107 @@
+### 1. Prüss A. "Estimating the disease burden due to environmental exposures." Environmental Health Perspectives 106(9):235-242.
+
+* Full citation: Prüss A. Estimating the disease burden due to environmental exposures. Environmental Health Perspectives. 1998;106(9):235-242.
+* Year: 1998
+* Journal/source: Environmental Health Perspectives
+* Country/region: Global
+* Paper category: Foundational WHO framework paper
+* Exposure(s): Multiple environmental exposures
+* Health outcome(s): Deaths, DALYs
+* Framework/method used: Environmental burden of disease framework
+* RR or exposure-response used: Yes
+* AF/PAF used: Yes
+* DALY/YLL/YLD used: Yes
+* Uncertainty analysis: Not reported
+* Main output: Framework for estimating disease burden attributable to environmental exposures
+* India relevance: High
+* Should this be shortlisted in top 10: Yes
+* One-line reason: Foundational WHO EBoD methodology paper defining AF and DALY workflow.
+* DOI or URL: [https://doi.org/10.1289/ehp.98106235](https://doi.org/10.1289/ehp.98106235)
+
+---
+
+### 2. Balakrishnan K et al. "Burden of Outdoor Air Pollution in Kerala, India—A First Health Risk Assessment."
+
+* Full citation: Balakrishnan K et al. Burden of Outdoor Air Pollution in Kerala, India—A First Health Risk Assessment. Environmental Health Perspectives. 2015;123(10):1036-1042.
+* Year: 2015
+* Journal/source: Environmental Health Perspectives
+* Country/region: India (Kerala)
+* Paper category: Applied EBoD methodology in India
+* Exposure(s): PM2.5, outdoor air pollution
+* Health outcome(s): DALYs, mortality, YLL, YLD
+* Framework/method used: Health risk assessment and comparative risk assessment
+* RR or exposure-response used: Yes
+* AF/PAF used: Yes
+* DALY/YLL/YLD used: Yes
+* Uncertainty analysis: Yes
+* Main output: Estimated disease burden attributable to outdoor air pollution in Kerala
+* India relevance: High
+* Should this be shortlisted in top 10: Yes
+* One-line reason: Early India-specific application of EBoD methods using PM2.5 exposure-response and DALY estimation.
+* DOI or URL: [https://doi.org/10.1289/ehp.1409089](https://doi.org/10.1289/ehp.1409089)
+
+---
+
+### 3. Health Effects Institute. "Burden of Disease Attributable to Major Air Pollution Sources in India." Special Report 21.
+
+* Full citation: Health Effects Institute. Burden of Disease Attributable to Major Air Pollution Sources in India. Special Report 21. 2016.
+* Year: 2016
+* Journal/source: Health Effects Institute Special Report
+* Country/region: India
+* Paper category: National burden estimation (comparative risk assessment)
+* Exposure(s): PM2.5, air pollution sources
+* Health outcome(s): Deaths, DALYs
+* Framework/method used: Comparative risk assessment
+* RR or exposure-response used: Yes
+* AF/PAF used: Yes
+* DALY/YLL/YLD used: Yes
+* Uncertainty analysis: Yes
+* Main output: National estimates of disease burden attributable to major air pollution sources
+* India relevance: High
+* Should this be shortlisted in top 10: Yes
+* One-line reason: Comprehensive India-focused burden estimation with source attribution methodology.
+* DOI or URL: [https://www.healtheffects.org/system/files/GBD-MAPS-SpecRep21-India-revised_0.pdf](https://www.healtheffects.org/system/files/GBD-MAPS-SpecRep21-India-revised_0.pdf)
+
+---
+
+### 4. WHO. "Quantification of the disease burden attributable to environmental risk factors: methods for the global analysis."
+
+* Full citation: WHO. Quantification of the disease burden attributable to environmental risk factors: methods for the global analysis. 2007.
+* Year: 2007
+* Journal/source: WHO Technical Document
+* Country/region: Global
+* Paper category: WHO methodological document
+* Exposure(s): Environmental risk factors
+* Health outcome(s): Deaths, DALYs, attributable fractions
+* Framework/method used: Environmental burden of disease methodology
+* RR or exposure-response used: Yes
+* AF/PAF used: Yes
+* DALY/YLL/YLD used: Yes
+* Uncertainty analysis: Yes
+* Main output: Standardized WHO methodology for quantifying disease burden attributable to environmental risk factors
+* India relevance: High
+* Should this be shortlisted in top 10: Yes
+* One-line reason: Core WHO reference document for environmental attributable burden calculations.
+* DOI or URL: [https://www.who.int/docs/default-source/documents/publications/quantification-of-the-disease-burden-attributable-to-environmental-risk-factors.pdf](https://www.who.int/docs/default-source/documents/publications/quantification-of-the-disease-burden-attributable-to-environmental-risk-factors.pdf)
+
+---
+
+### 5. Cohen AJ et al. "The impact of air pollution on deaths, disease burden, and life expectancy across the states of India: the Global Burden of Disease Study 2017."
+
+* Full citation: Cohen AJ et al. The impact of air pollution on deaths, disease burden, and life expectancy across the states of India: the Global Burden of Disease Study 2017. The Lancet Planetary Health. 2018;3(1):e26-e39.
+* Year: 2018
+* Journal/source: The Lancet Planetary Health
+* Country/region: India
+* Paper category: Comparative risk assessment (GBD methodology)
+* Exposure(s): PM2.5, air pollution
+* Health outcome(s): Deaths, DALYs, YLL, YLD, life expectancy
+* Framework/method used: Global Burden of Disease comparative risk assessment framework
+* RR or exposure-response used: Yes
+* AF/PAF used: Yes
+* DALY/YLL/YLD used: Yes
+* Uncertainty analysis: Yes
+* Main output: State-level disease burden and life expectancy impacts attributable to air pollution in India
+* India relevance: High
+* Should this be shortlisted in top 10: Yes
+* One-line reason: Advanced India state-level implementation of GBD air pollution burden methodology.
+* DOI or URL: [https://doi.org/10.1016/S2542-5196(18)30261-4](https://doi.org/10.1016/S2542-5196%2818%2930261-4)
